@@ -1,11 +1,16 @@
-First and Last name:Ilya Osipov	
+ First and Last name: Ilya Osipov	
 
-Communication: https://vk.com/id222777530
+ Communication: https://vk.com/id222777530
 
 Main Goal: My goal is to become front-end or full stack developer. I really enjoy studing computer science at my university.
 I Have passion to grow up like a IT specialist. Also i love math :)
 
 Skills: C#, 3D moddeling, Unity (just a little bit)
+```
+const code = () => {  
+  console.log("Some code for example")
+};  
+```
 
 Works: *sound of the tumbleweed*
 
