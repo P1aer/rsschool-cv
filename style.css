@@ -1,0 +1,55 @@
+* {
+    font-size: 20px;
+}
+.cv-block {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header {
+    position: relative;
+    height: 35vh;
+    min-height: 10rem;
+}
+
+footer {
+    position: relative;
+    height: 1vh;
+    min-height: 3.8rem;
+}
+
+img {
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    height: 60%;
+    border-radius: 50%;
+    border: 2px solid black;
+}
+
+.header-box {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+}
+
+h1 {
+    font-size: 1.5rem;
+}
+
+h2 {
+    font-size: 1.2rem;
+    margin-top: 1.1em;
+}
+
+
+nav {
+    position: absolute;
+    bottom: 5px;
+    right: 10px;
+}
+
