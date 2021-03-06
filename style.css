@@ -36,6 +36,7 @@ footer {
     width: 10%;
 }
 .code{
+    background:ghostwhite;
     font-size: 75%;
     font-family: "Major Mono Display", monospace;
 }
